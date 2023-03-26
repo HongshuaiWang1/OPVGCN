@@ -55,7 +55,7 @@ After the training is complete, the best model will be saved to the `weight/` di
 python test.py model_best.pth.tar sample-dataset sample-targets
 ```
 
-#Model 2
+# Model 2
 
  Model 2 utilizes the output of Model 1 as input, which can be easily implemented using lightgbm
 ### Create a LightGBM dataset
