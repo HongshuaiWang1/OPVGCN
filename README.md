@@ -1,4 +1,4 @@
-# OPVGCN Fast and accurate screening framework for organic solar cells based on molecular structure and deep learning
+# OPVGCN (Fast and accurate screening framework for organic solar cells based on molecular structure and deep learning)
 
 ## Introduction
 
